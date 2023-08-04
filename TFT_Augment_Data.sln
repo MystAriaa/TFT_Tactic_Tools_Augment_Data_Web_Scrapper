@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFT_Augment_Data", "TFT_Augment_Data\TFT_Augment_Data.csproj", "{BDFFAA3D-52D2-4352-BBA2-373139F886BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFFAA3D-52D2-4352-BBA2-373139F886BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFFAA3D-52D2-4352-BBA2-373139F886BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFFAA3D-52D2-4352-BBA2-373139F886BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFFAA3D-52D2-4352-BBA2-373139F886BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAABF6AB-3F7B-4F18-A569-9AAB119DC63E}
+	EndGlobalSection
+EndGlobal
